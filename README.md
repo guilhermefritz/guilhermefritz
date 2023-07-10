@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @guilhermefritz
+- 👋 Hi, I’m Guilherme Fritz
 - 👀 I’m interested in ... JOBS
 - 🌱 I’m currently learning ...ML
 - 💞️ I’m looking to collaborate on ... BIG COMPANIES
