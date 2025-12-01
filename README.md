@@ -1,6 +1,6 @@
 - 👋 Olá,me chamo Guilherme Fritz.
 - 👀 Estou interessado em  oportunidades para adquirir experiência.
-- 🌱 Atualmente estou estudando Análise de dados.
+- 🌱 Atualmente estou estudando desenvolvimento Front End
 - 📫 Como me encontrar  LINKEDIN https://www.linkedin.com/in/guilherme-fritz-775053187/
 
 <!---
