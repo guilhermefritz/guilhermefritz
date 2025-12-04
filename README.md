@@ -1,17 +1,14 @@
-# 👋 Salve! Eu sou o [Seu Nome]
+# 👋 Salve! Eu sou o Guilherme Fritz
 
-Sou desenvolvedor focado em [sua stack] e apaixonado por tecnologia.  
-Atualmente estudando e trabalhando com **Desenvolvimento Web**, buscando sempre novos desafios.
+Sou desenvolvedor focado em Front End e apaixonado por tecnologia.  
+Atualmente estudando  **Desenvolvimento Web**, buscando sempre novos desafios.
 
 ---
 
 ## 🚀 Tecnologias
 
 ### 💻 Front-end
-- React · Next.js · JavaScript · TypeScript · HTML · CSS · TailwindCSS
-
-### ⚙️ Back-end
-- Node.js · Express · REST APIs · JWT · FastAPI (Python)
+- React · · JavaScript · TypeScript · HTML · CSS · TailwindCSS
 
 ### 🛢️ Banco de Dados
 - PostgreSQL · SQLite · Prisma · SQL
@@ -23,15 +20,11 @@ Atualmente estudando e trabalhando com **Desenvolvimento Web**, buscando sempre 
 
 ## 📂 Projetos em Destaque
 
-### 🦾 [Nome do Projeto 1](link-do-projeto)
+### 🦾 Animais Marinhos (https://guilhermefritz.github.io/animais-marinhos/)
 Uma breve descrição.  
-Stack usada: React, Node, PostgreSQL  
+Stack usada: JavaScript 
 Funcionalidades principais:
-- Login com JWT
-- CRUD de usuários
-- Sistema de posts
-
----
+navegacao por tabs -Scroll suave -accordion list -events -dropdown -tooltips -modal -modules -Api -forms -Classes
 
 ### 🤖 [Nome do Projeto 2](link-do-projeto)
 Descrição rápida.  
