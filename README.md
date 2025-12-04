@@ -1,4 +1,4 @@
-# 👋 Salve! Eu sou o Guilherme Fritz
+#  Eu sou o Guilherme Fritz
 
 Sou desenvolvedor focado em Front End e apaixonado por tecnologia.  
 Atualmente estudando  **Desenvolvimento Web**, buscando sempre novos desafios.
@@ -22,8 +22,8 @@ Atualmente estudando  **Desenvolvimento Web**, buscando sempre novos desafios.
 
 ### 🦾 Animais Marinhos (https://guilhermefritz.github.io/animais-marinhos/)
 Uma breve descrição.  
-Stack usada: JavaScript 
-Funcionalidades principais:
+Stack usada: JavaScript
+## Funcionalidades principais:##
 navegacao por tabs -Scroll suave -accordion list -events -dropdown -tooltips -modal -modules -Api -forms -Classes
 
 ### 🤖 [Nome do Projeto 2](link-do-projeto)
